@@ -88,19 +88,3 @@ let myCafeMenu = [
   },
 ];
 let myCafe = new CoffeeShop({ name: "Cafe", menu: myCafeMenu });
-// console.log(myCafe.drinksOnly());
-// console.log(myCafe.foodOnly());
-// console.log(myCafe.addOrder("Coffee"));
-// console.log(myCafe.addOrder("Coffee"));
-// console.log(myCafe.addOrder("Burger"));
-// console.log(myCafe.addOrder("Chesse"));
-// console.log(myCafe.addOrder("Orange juice"));
-// myCafe.addOrder("Coffee");
-// myCafe.addOrder("Burger");
-// // myCafe.addOrder("Burger");
-// console.log(myCafe.orders);
-console.log(myCafe.ordersInfo);
-console.log(myCafe.dueAmount());
-console.log(myCafe.cheapestItem());
-// console.log(myCafe.fulfillOrder("Fries"));
-// console.log(myCafe.listOrders());

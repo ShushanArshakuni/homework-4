@@ -103,12 +103,3 @@ class Zombie extends Character {
   }
 }
 let zombie = new Zombie("Zomb", "Zombie");
-
-// console.log(character.setName("Ab"));
-// console.log(character.setType("Magiciann"));
-// console.log(character);
-// console.log(zombie);
-// console.log(bowerman);
-// zombie.levelUp();
-zombie.damage(5);
-// console.log(zombie);

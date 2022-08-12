@@ -85,13 +85,3 @@ class ShoppingCart {
 
 // console.log(product);
 let shoppingCart = new ShoppingCart();
-shoppingCart.addProduct(product);
-shoppingCart.addProduct(product1);
-shoppingCart.addProduct(product2);
-shoppingCart.addProduct(product3);
-shoppingCart.addProduct(product3);
-// console.log(shoppingCart.totalPrice());
-// console.log(shoppingCart.replace("boots", replacementProduct));
-// console.log(shoppingCart.productList);
-// console.log(shoppingCart.getProductList());
-console.log(shoppingCart.calcDiscount());

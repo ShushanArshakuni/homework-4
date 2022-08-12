@@ -36,11 +36,3 @@ let tv = new TV("Sony");
 // console.log(tv);
 
 console.log(tv.increaseVolume());
-// tv.decreaseVolume();
-// tv.increaseVolume();
-// tv.increaseVolume();
-// tv.increaseVolume();
-// tv.resetTV();
-// console.log(tv.setStatus());
-console.log(tv);
-// console.log(tv.setChannel(52));

@@ -104,13 +104,3 @@ university.addMember(teacher1);
 university.addMember(teacher2);
 university.addMember(student1);
 university.addMember(student2);
-
-// university.startLesson();
-console.log(university.students);
-// console.log(university.teachers);
-// university.startLesson();
-// console.log(university.students);
-// console.log(university.teachers);
-university.removeMember(student1);
-// console.log(university.teachers);
-console.log(university.students);
